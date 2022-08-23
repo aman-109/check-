@@ -6,6 +6,7 @@ function Navbar() {
         <Box p={"2rem"}>
             <NavLink to="/" > Home </NavLink>
             <NavLink to="/doctor">View Doctors</NavLink>
+            <NavLink to="/doctor">View Doctors</NavLink>
         </Box>
     )
 }
