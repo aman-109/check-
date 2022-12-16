@@ -43,6 +43,6 @@ exercise=>![image](https://user-images.githubusercontent.com/101388858/205925656
 
 single exercise=>![image](https://user-images.githubusercontent.com/101388858/205926945-7f62e243-bd49-41d3-b816-f2ac53c45dac.png)
 
+![Hub point](https://user-images.githubusercontent.com/101388858/208071519-6c0ed1b3-e686-46c8-9048-aa1eec2deb0e.png)
 
-![Hub point](https://user-images.githubusercontent.com/101388858/208069688-7392378a-4bcf-4543-bcde-130590f6a2a3.png)
 
