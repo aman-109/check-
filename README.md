@@ -46,3 +46,16 @@ single exercise=>![image](https://user-images.githubusercontent.com/101388858/20
 ![Hub point](https://user-images.githubusercontent.com/101388858/208071519-6c0ed1b3-e686-46c8-9048-aa1eec2deb0e.png)
 
 
+
+##DocManager
+
+login/signup
+![image](https://user-images.githubusercontent.com/101388858/219855243-e034b4cc-08fb-4510-9941-fbb84dd34ef3.png)
+
+upload profile
+![image](https://user-images.githubusercontent.com/101388858/219855282-96bdbd02-3235-4ff1-87cf-e8deb5cdc683.png)
+
+doc access
+![image](https://user-images.githubusercontent.com/101388858/219855331-7910516d-082b-4365-bd29-e6bb4aca8f78.png)
+
+
